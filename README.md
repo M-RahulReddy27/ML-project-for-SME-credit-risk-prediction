@@ -87,7 +87,7 @@ Statistical noise is applied before thresholding at 0.45 to determine the final 
 | Category | Libraries |
 |----------|-----------|
 | **Data Processing** | `pandas`, `numpy` |
-| **Machine Learning** | `scikit-learn`, `xgboost`, `lightgbm` |
+| **Machine Learning** | `RandomForest`, `xgboost`, `lightgbm` |
 | **Evaluation** | `accuracy_score`, `precision_score`, `recall_score`, `f1_score`, `roc_auc_score` |
 | **Visualization** | `matplotlib`, `seaborn` |
 | **Explainability** | `shap` |
@@ -142,7 +142,7 @@ The notebook is organized into sequential cells:
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    DATA GENERATION                          │
-│  Generate 100K records with non-linear risk heuristics      │
+│    Dataset 100K records with non-linear risk heuristics      │
 └─────────────────────┬───────────────────────────────────────┘
                       │
                       ▼
