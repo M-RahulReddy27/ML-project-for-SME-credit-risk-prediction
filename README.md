@@ -47,7 +47,7 @@ Credit risk assessment is a critical process in supply chain finance. This proje
 
 ##  Dataset
 
-The dataset is **synthetically generated** with 100,000 samples and 12 features, simulating realistic SME financial profiles:
+The dataset is **kaggle_sme_credit_risk_100k** with 100,000 samples and 12 features, simulating realistic SME financial profiles:
 
 | Feature | Description | Distribution |
 |---------|-------------|--------------|
@@ -241,4 +241,4 @@ For questions, suggestions, or collaborations, please open an issue in the repos
 
 ---
 
-> **Disclaimer**: The dataset used in this project is synthetically generated for educational and research purposes. It does not represent real financial data from any organization.
+> **Disclaimer**: The dataset used in this project is taken from Kaggle for educational and research purposes. It does  represent real financial data from any organization.
