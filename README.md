@@ -24,7 +24,7 @@ A comprehensive machine learning pipeline for predicting **credit risk** in Smal
 
 Credit risk assessment is a critical process in supply chain finance. This project develops a machine learning solution to classify SMEs as **High Risk (1)** or **Low Risk (0)** based on financial and operational features. The pipeline includes:
 
-1. **Synthetic Data Generation** with realistic, non-linear risk heuristics
+1. **Dataset_Sme_Credit_Risk** with realistic, non-linear risk heuristics
 2. **Exploratory Data Analysis (EDA)** with professional-grade visualizations
 3. **Feature Engineering & Selection** using variance thresholding
 4. **Model Training & Comparison** across multiple algorithms
