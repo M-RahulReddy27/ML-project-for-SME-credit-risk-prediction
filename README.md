@@ -17,6 +17,7 @@ A comprehensive machine learning pipeline for predicting **credit risk** in Smal
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Best GitHub Agent Skills](#best-github-agent-skills)
 
 ---
 
@@ -238,6 +239,55 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ##  Contact
 
 For questions, suggestions, or collaborations, please open an issue in the repository.
+
+---
+
+##  Best GitHub Agent Skills
+
+GitHub offers a growing ecosystem of AI-powered agent skills that can accelerate development, automate workflows, and enhance code quality. Below are the most powerful agent skills available on GitHub today:
+
+### 1. 🤖 GitHub Copilot — AI Pair Programmer
+GitHub Copilot is the flagship AI coding assistant that provides intelligent code completions, explanations, and refactoring suggestions directly in your editor.
+- **Link**: https://github.com/features/copilot
+
+### 2. 🧠 GitHub Copilot Chat
+Copilot Chat allows you to have natural-language conversations about your code — ask questions, get explanations, debug issues, and generate code using a chat interface inside your IDE or on GitHub.com.
+- **Link**: https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat
+
+### 3. 🛠️ GitHub Copilot Coding Agent (Agentic Mode)
+Copilot can now operate autonomously as a coding agent — it reads issues, writes code changes, runs tests, and opens pull requests with minimal human intervention.
+- **Link**: https://docs.github.com/en/copilot/using-github-copilot/using-copilot-coding-agent-to-work-on-tasks
+
+### 4. 🔁 GitHub Actions — CI/CD Automation Agent
+GitHub Actions enables fully automated workflows for building, testing, and deploying your applications. Combined with AI, it serves as a powerful automation agent.
+- **Link**: https://github.com/features/actions
+- **Marketplace**: https://github.com/marketplace?type=actions
+
+### 5. 🔍 GitHub Copilot Code Review
+Copilot can review pull requests, flag potential issues, suggest improvements, and enforce coding standards automatically — acting as an always-available code reviewer.
+- **Link**: https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review
+
+### 6. 🔐 GitHub Advanced Security (GHAS) — Security Agent
+GHAS provides automated security scanning including CodeQL static analysis, secret scanning, and Dependabot vulnerability alerts — acting as a security agent for your codebase.
+- **Link**: https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security
+- **CodeQL**: https://codeql.github.com/
+
+### 7. 🤝 GitHub Copilot Extensions & MCP
+Copilot supports Model Context Protocol (MCP) and custom extensions, allowing you to extend its capabilities with domain-specific tools, APIs, and data sources.
+- **Link**: https://docs.github.com/en/copilot/building-copilot-extensions/about-building-copilot-extensions
+- **MCP**: https://modelcontextprotocol.io/
+
+### 8. 📦 Dependabot — Dependency Update Agent
+Dependabot automatically monitors your dependencies for known vulnerabilities and outdated packages, and opens pull requests to update them.
+- **Link**: https://docs.github.com/en/code-security/dependabot/working-with-dependabot
+
+### 9. 🌐 GitHub Models
+GitHub Models gives developers access to a variety of AI models (GPT-4o, Llama, Mistral, Phi, etc.) directly from GitHub to prototype and build AI-powered applications.
+- **Link**: https://github.com/marketplace/models
+
+### 10. 📊 GitHub Spark
+GitHub Spark is an AI-native tool for building and sharing micro apps using natural language, no traditional coding environment required.
+- **Link**: https://githubnext.com/projects/github-spark
 
 ---
 
